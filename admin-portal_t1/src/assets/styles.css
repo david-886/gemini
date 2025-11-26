@@ -1,0 +1,4 @@
+* { box-sizing: border-box }
+body, html, #app { height: 100%; margin: 0; background: #f1f5f9 }
+a { color: inherit }
+button { cursor: pointer }
